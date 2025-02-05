@@ -8,7 +8,7 @@ Kaimo Inc., açık kaynak yazılım dünyasında devrim yaratmayı hedefleyen bi
 
 Kaimo Inc. olarak geliştirdiğimiz projeler, açık kaynak yazılım ve kullanıcı gizliliği odaklıdır. Aşağıda bazı projelerimizin kısa açıklamaları yer almaktadır:
 
-### 🛠️ [Kaimo Search](https://kaimo.com/search)
+### 🛠️ Kaimo Search
 
 Kaimo Search, kullanıcı odaklı, hızlı ve özelleştirilebilir bir arama motorudur. Mahremiyetinizi koruyarak güvenli bir internet deneyimi sunmayı amaçlıyoruz.
 
@@ -39,7 +39,7 @@ Bize ulaşmak için [iletişim mailimize](mailto:yigitkabak@proton.me) göz atab
 
 Projelerimize ve kaynak kodlarımıza GitHub üzerinden ulaşabilirsiniz.
 
-- [Kaimo Search - GitHub](https://github.com/kaimo-inc/kaimo-search)
+- [Kaimo](https://github.com/kaimo-inc)
 
 ---
 
