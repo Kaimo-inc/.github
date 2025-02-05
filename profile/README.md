@@ -1,4 +1,4 @@
-![Kaimo Logo](https://raw.githubusercontent.com/devyigit/Synapic/refs/heads/main/images/1738097647350.png)
+![Kaimo Logo](https://raw.githubusercontent.com/devyigit/devyigit.github.io/refs/heads/main/%C4%B0mages/1738097647350.png)
 
 Kaimo Inc., açık kaynak yazılım dünyasında devrim yaratmayı hedefleyen bir organizasyondur. İnterneti daha güvenli, hızlı ve özgür bir hale getirmek için projeler geliştiriyoruz. Hedefimiz; kullanıcıların, sansüre uğramadan, güvenle içeriklere erişebilmelerini sağlamaktır.
 
